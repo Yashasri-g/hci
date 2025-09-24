@@ -18,13 +18,14 @@
 **Donald Norman’s Model**
 - Norman’s model concentrates on user’s view of the interface
 - Seven stages of interaction:
-  1. User establishes the goal they want to achieve.
-  2. Formulates intention for the required actions.
-  3. Specifies actions to be executed at the interface.
-  4. Executes the planned action.
-  5. Perceives the system response or state.
-  6. Interprets what the system output means.
-  7. Evaluates whether the outcome matches the original goal.
+  1. user establishes the goal
+  2. formulates intention
+  3. specifies actions at interface
+  4. executes action
+  5. perceives system state
+  6. interprets system state
+  7.evaluates system state with respect to goal
+
 - Highlights user-centered perspective, showing potential mismatches between user expectations and system behavior.
 - Gulf of Execution: When system actions do not match user intentions.
 - Gulf of Evaluation: When system feedback does not align with user expectations.
