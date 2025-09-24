@@ -30,7 +30,7 @@
 - Gulf of Evaluation: When system feedback does not align with user expectations.
 
 **Abowd & Beale Framework**
-- An extension of Norman’s model, providing a formal framework for understanding interactions.
+- An extension of Norman’s model.
 - Components: User, Input, System, Output – each has a distinct language or representation.
 - Interaction is a translation process between these languages, mapping intentions to system responses.
 - Helps identify interaction problems as issues in translation between user and system.
