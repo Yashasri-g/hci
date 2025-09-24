@@ -7,7 +7,7 @@
 - Effective interaction design ensures users can achieve their goals efficiently, safely, and comfortably.
 
 **Models of Interaction**
-- Interaction models help abstract and understand how users communicate with systems.
+- Interaction models help understand how users communicate with systems.
 - Key Terms:
   1. Domain: The specific area of work or activity (e.g., graphic design or data entry).
   2. Goal: The desired outcome or objective (e.g., create a red triangle).
