@@ -4,7 +4,6 @@
 - Interaction is the dynamic communication between a human user and a computer system.
 - It is not just input and output; it involves understanding, intention, and feedback throughout the process.
 - Interaction occurs in direct forms (real-time dialogue with feedback) and indirect forms (automated or batch operations).
-- The context of interaction includes social, organizational, and motivational factors, affecting how users perceive and respond.
 - Effective interaction design ensures users can achieve their goals efficiently, safely, and comfortably.
 
 **Models of Interaction**
