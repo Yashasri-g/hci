@@ -26,7 +26,6 @@
   6. interprets system state
   7. evaluates system state with respect to goal
 
-- Highlights user-centered perspective, showing potential mismatches between user expectations and system behavior.
 - Gulf of Execution: When system actions do not match user intentions.
 - Gulf of Evaluation: When system feedback does not align with user expectations.
 
