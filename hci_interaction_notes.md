@@ -39,16 +39,13 @@
   - User intention → Translated into system actions → Changes system state → Reflected in output → Interpreted by the user.
 
 **Ergonomics (Human Factors)**
-- Ergonomics is the study of physical and physiological aspects of human interaction with systems.
-- Focuses on user comfort, safety, and efficiency, optimizing system layout and environmental conditions.
-- Provides design standards and guidelines for interfaces, controls, and displays.
-- Considers long-term health and performance, including posture, repetitive strain prevention, and workspace adaptation.
-- Ergonomics ensures users can interact intuitively without fatigue or error.
+- Study of the physical characteristics of interaction
+- Also known as human factors
+- Ergonomics sets clear rules and guidelines for how we design systems.
 
 **Examples of Ergonomics in HCI:**
 1. Controls & Displays: Arranged logically by function, frequency, or sequence for ease of use.
 2. Environmental Factors: Adjustable seating, lighting, and temperature for diverse user needs.
 3. Health & Safety: Proper posture, reduced strain, noise control, and illumination management.
 4. Use of Color: Red for warnings, green for safe actions, considering color-blindness.
-5. User-Centric Design: Equipment and interface designed for comfort and intuitive operation.
 
