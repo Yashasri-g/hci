@@ -16,7 +16,7 @@
 - Clear definition of tasks, goals, and domains helps in designing more intuitive interfaces.
 
 **Donald Norman’s Model**
-- Norman’s model explains user cognition and behavior when interacting with systems.
+- Norman’s model concentrates on user’s view of the interface
 - Seven stages of interaction:
   1. User establishes the goal they want to achieve.
   2. Formulates intention for the required actions.
